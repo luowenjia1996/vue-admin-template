@@ -13,5 +13,14 @@ export default {
     close: 'Close',
     closeOthers: 'Close Others',
     closeAll: 'Close All'
+  },
+  navbar: {
+    logOut: 'Log Out',
+    dashboard: 'Dashboard',
+    theme: 'Theme',
+    size: 'Global Size',
+    language: 'switch language',
+    fullscreen: 'Switch full screen',
+    cancelfullscreen: 'Cancel full screen'
   }
 }
